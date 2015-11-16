@@ -1,2 +1,2 @@
 # fplyr
-dplyr like syntax for filehash backend
+[https://github.com/hadley/dplyr](dplyr) like syntax for [https://github.com/rdpeng/filehash](filehash) backend
